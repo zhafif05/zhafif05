@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zhafif Rizqullah</h1>
-<h3 align="center">A passionate web developer from Indonsia</h3>
+<h3 align="center">A passionate web developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Framework laravel**
 
