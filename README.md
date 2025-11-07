@@ -44,8 +44,9 @@ Currently developing smart system prototypes such as **Automatic Toll Gate** and
 
 ### 🧰 Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,python,php,laravel,html,css,js,mysql,git,github,vscode,figma,autocad,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=arduino,python,php,laravel,nodejs,express,react,html,css,js,mysql,git,github,vscode,figma,autocad,eagle,linux&perline=8" />
 </p>
+
 
 *IoT Toolkit:*  
 ESP8266 · Arduino IDE · MQTT Mosquitto · DHT11 · RFID · MQ-135 · Relay · Buzzer  
