@@ -1,17 +1,17 @@
 <!-- Wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,100:8B5CF6&height=200&section=header&text=Muhammad%20Zhafif%20Rizqullah&fontSize=30&fontAlignY=32&fontColor=E5E7EB" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9CA3AF,50:B2A287,100:CFC9B1&height=200&section=header&text=Muhammad%20Zhafif%20Rizqullah&fontSize=30&fontAlignY=32&fontColor=F3F4F6" width="100%" />
 </p>
 
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&center=true&vCenter=true&width=1000&lines=IoT%20Developer%20%7C%20Electronics%20Enthusiast%20%7C%20Web%20Developer;ESP8266%20%E2%80%A2%20Arduino%20%E2%80%A2%20PHP(Laravel)%20%E2%80%A2%20HTML%2FCSS%20%7C%20MQTT%20%7C%20Database;Passionate%20about%20Automation%2C%20Sensors%2C%20and%20Smart%20Systems"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&center=true&vCenter=true&width=1000&color=B2A287&lines=IoT%20Developer%20%7C%20Electronics%20Enthusiast%20%7C%20Web%20Developer;ESP8266%20%E2%80%A2%20Arduino%20%E2%80%A2%20PHP(Laravel)%20%E2%80%A2%20HTML%2FCSS%20%7C%20MQTT%20%7C%20Database;Passionate%20about%20Automation%2C%20Sensors%2C%20and%20Smart%20Systems"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zhafif05?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/zhafif05?style=for-the-badge&logo=github"></a>
-  <img alt="views" src="https://komarev.com/ghpvc/?username=zhafif05&style=for-the-badge"/>
-  <img alt="focus" src="https://img.shields.io/badge/IoT-Developer-10B981?style=for-the-badge">
+  <a href="https://github.com/zhafif05?tab=followers"><img alt="followers" src="https://img.shields.io/github/followers/zhafif05?style=for-the-badge&logo=github&color=B2A287&labelColor=4B5563"></a>
+  <img alt="views" src="https://komarev.com/ghpvc/?username=zhafif05&style=for-the-badge&color=B2A287&label=Profile+Views&labelColor=4B5563"/>
+  <img alt="focus" src="https://img.shields.io/badge/IoT-Developer-B2A287?style=for-the-badge&labelColor=4B5563">
 </p>
 
 ---
@@ -47,7 +47,6 @@ Currently developing smart system prototypes such as **Automatic Toll Gate** and
   <img src="https://skillicons.dev/icons?i=arduino,python,php,laravel,nodejs,express,react,html,css,js,mysql,git,github,vscode,figma,autocad,eagle,linux&perline=8" />
 </p>
 
-
 *IoT Toolkit:*  
 ESP8266 · Arduino IDE · MQTT Mosquitto · DHT11 · RFID · MQ-135 · Relay · Buzzer  
 
@@ -55,14 +54,14 @@ ESP8266 · Arduino IDE · MQTT Mosquitto · DHT11 · RFID · MQ-135 · Relay · 
 
 ### 📊 Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zhafif05&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhafif05&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zhafif05&show_icons=true&theme=graywhite&icon_color=B2A287&title_color=B2A287&text_color=374151" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhafif05&layout=compact&theme=graywhite&title_color=B2A287&text_color=374151" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhafif05&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhafif05&theme=default&ring=B2A287&fire=B2A287&currStreakLabel=374151" />
 </p>
 
 ---
 
 <!-- Wave footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6EE7F9&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CFC9B1,100:9CA3AF&height=140&section=footer" width="100%"/>
