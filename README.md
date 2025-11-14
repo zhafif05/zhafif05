@@ -18,7 +18,7 @@
 
 ### 👋 About Me
 
-*Student at **SMK Telkom Sidoarjo (XI SIJA 2)** with interests in **Internet of Things (IoT)**, **automation systems**, and **web development**.  
+*Student at **SMK Telkom Sidoarjo (XII SIJA 2)** with interests in **Internet of Things (IoT)**, **automation systems**, and **web development**.  
 Experienced in working with **Arduino**, **ESP8266**, and **MQTT servers**, as well as creating **web dashboards** for real-time sensor monitoring.  
 Currently developing smart system prototypes such as **Automatic Toll Gate** and **Smart Home Security System**.*
 
